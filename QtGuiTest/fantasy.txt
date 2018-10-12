@@ -1,0 +1,290 @@
+3
+Prince Corwin of Amber colors
+8
+black
+1
+1
+white
+0
+1
+green
+0
+1
+red
+0
+1
+blue
+0
+1
+yellow
+0
+1
+grey
+0
+0.5
+silver
+1
+1
+
+2
+Creator of Primal Pattern
+4
+Oberon
+0.5
+Benedict
+0
+Corwin
+0.25
+Dworkin
+1
+
+3
+Use lion as sigil
+9
+Lannisters
+1
+1
+Freys
+0
+1
+Gryffindor 
+1
+1
+Narnia
+1
+1
+Telmarine
+0
+1
+Amber 
+0
+1
+Dalt (Oberon's illegitimate son)
+1
+1
+The Courts of Chaos
+0
+1
+Merlin of Amber
+0
+1
+
+1
+Did the Sun and Moon existed during Elder Days of Arda?
+0
+
+3
+Children of Iluvatar
+5
+Ents
+0
+1
+Elves
+1
+1
+Men
+1
+1
+Dwarves
+0
+1
+Hobbits
+0
+1
+
+2
+When the Wizards came to Middle-earth?
+5
+Elder Days
+0
+First Age
+0
+Second Age
+0.25
+Third Age
+1
+Fourth Age
+0
+
+7
+Who created stars in Arda?
+9
+Varda
+Elentari
+Tintalle
+Elbereth
+Gilthoniel
+Fanuilos
+Barathi
+Baradis
+Avradi
+
+2
+Who met Lucy when she first arrived in Narnia?
+4
+Mr. Tumnus
+1
+Mr. Beaver
+0.25
+White Witch
+0.25
+Emerald Witch
+0
+
+4
+How many years after the Doom of Valyria the Targaryen Conquest happened?
+100
+0
+1000
+
+4
+The First Dornish War started (AC)
+4
+0
+100
+
+2
+Whose ghost was seen during the Battle of the Blackwater?
+4
+Mad king
+0
+King Robert
+0.25
+King Renly
+1
+Eddard Stark
+0
+
+5
+The War of Wrath (First Age)
+545
+587
+
+7
+Beren saw her dancing from afar under moonrise.
+2
+Luthien
+Tinuviel
+
+4
+How many members the Fellowship of the Ring had?
+9
+0
+15
+
+7
+Wizard who faced the Balrog at the Bridge of Khazad-dum
+5
+Gandalf
+Mithrandir
+Tharkun
+Olorin
+Incanus
+
+1
+Minas Tirith was originally named Minas Anor
+1
+
+1
+Minas Morgul was built by Sauron
+0
+
+7
+The fairest realm of the Elves remaining in Middle-earth during the Third Age.
+5
+Lindorinand
+Lorinand
+Laurelindorenan
+Lothlorien
+Lorien
+
+1
+Smaug killed king Thror
+0
+
+2
+Ghostwheel created by Merlin of Amber is
+4
+time machine
+0.25
+computer with AI
+1
+magic mirror
+0
+magic transport
+0
+
+1
+Did White Witch know the deeper magic from before the dawn of Time existed?
+0
+
+3
+Who entered Aslan's Country after the Last Battle?
+6
+Peter 
+1
+1
+Susan
+0
+1
+Edmund
+1
+1
+Lucy
+1
+1
+Jill
+1
+1
+Eustase
+1
+1
+
+6
+Age of Heroes (BC)
+4000
+6000
+8000
+10000
+
+6
+Targaryens leave Valyria
+0
+2
+100
+200
+
+6
+The final "Seven Kingdoms", as they were later known, coagulated
+700
+1000
+2000
+2000
+
+5
+Age of Stark children (at the beggining)
+3
+14
+
+5
+Chronicles of Amber were published
+1970
+1991
+
+4 
+How many rings were made for dwarves
+7
+1
+9
+
+5
+Men were persuaded by Melkor and lost their gift (First Age)
+60
+200
+
+6
+How many children has Oberon?
+12
+16
+18
+40
